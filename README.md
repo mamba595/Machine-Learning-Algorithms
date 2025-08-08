@@ -2,7 +2,9 @@
 
 ## Description
 In this repository I implement Machine Learning algorithms in Kaggle competitions, preparing the data beforehand through preprocessing, cleaning and feature engineering using Pandas library.
+
 Some algorithms were developed from scratch using Pytorch for gradient descent, and for others I used Scikit-learn models for efficiency. All the algorithms were tested in competitions, obtaining good results.
+
 I've also worked with the Numpy library to prepare the tensors for the Pytorch deep neural networks.
 
 ## Algorithms
