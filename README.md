@@ -6,20 +6,20 @@ Some algorithms were developed from scratch using Pytorch for gradient descent, 
 I've also worked with the Numpy library to prepare the tensors for the Pytorch deep neural networks.
 
 ## Algorithms
-# House Prices - Advanced Regression Techniques
+### House Prices - Advanced Regression Techniques
 - Linear Regression
 - Decision Trees
 - Random Forests
 - Gradient Boosting using XGBoost
 - Principal Component Analysis using Linear Regression
 - Ridge / Lasso Linear Regression (Both)
-# Titanic - Machine Learning from Disaster
+### Titanic - Machine Learning from Disaster
 - Logistic Regression
 - K-Nearest Neighbors
 - AdaBoost
-# Digit Recognizer
+### Digit Recognizer
 - Multilayer Perceptron
-# K-Means Clustering for Heart Disease Analysis
+### K-Means Clustering for Heart Disease Analysis
 - K-Means Clustering
-# Prediction of spam with Bayesian model
+### Prediction of spam with Bayesian model
 - Gaussian Naive Bayes
